@@ -1,0 +1,15 @@
+/home/douglas/Documentos/Projetos/Disciplinas/Analis. Alg./Atv/ListaDupla/bin/Debug/net7.0/ListaDupla
+/home/douglas/Documentos/Projetos/Disciplinas/Analis. Alg./Atv/ListaDupla/bin/Debug/net7.0/ListaDupla.deps.json
+/home/douglas/Documentos/Projetos/Disciplinas/Analis. Alg./Atv/ListaDupla/bin/Debug/net7.0/ListaDupla.runtimeconfig.json
+/home/douglas/Documentos/Projetos/Disciplinas/Analis. Alg./Atv/ListaDupla/bin/Debug/net7.0/ListaDupla.dll
+/home/douglas/Documentos/Projetos/Disciplinas/Analis. Alg./Atv/ListaDupla/bin/Debug/net7.0/ListaDupla.pdb
+/home/douglas/Documentos/Projetos/Disciplinas/Analis. Alg./Atv/ListaDupla/obj/Debug/net7.0/ListaDupla.csproj.AssemblyReference.cache
+/home/douglas/Documentos/Projetos/Disciplinas/Analis. Alg./Atv/ListaDupla/obj/Debug/net7.0/ListaDupla.GeneratedMSBuildEditorConfig.editorconfig
+/home/douglas/Documentos/Projetos/Disciplinas/Analis. Alg./Atv/ListaDupla/obj/Debug/net7.0/ListaDupla.AssemblyInfoInputs.cache
+/home/douglas/Documentos/Projetos/Disciplinas/Analis. Alg./Atv/ListaDupla/obj/Debug/net7.0/ListaDupla.AssemblyInfo.cs
+/home/douglas/Documentos/Projetos/Disciplinas/Analis. Alg./Atv/ListaDupla/obj/Debug/net7.0/ListaDupla.csproj.CoreCompileInputs.cache
+/home/douglas/Documentos/Projetos/Disciplinas/Analis. Alg./Atv/ListaDupla/obj/Debug/net7.0/ListaDupla.dll
+/home/douglas/Documentos/Projetos/Disciplinas/Analis. Alg./Atv/ListaDupla/obj/Debug/net7.0/refint/ListaDupla.dll
+/home/douglas/Documentos/Projetos/Disciplinas/Analis. Alg./Atv/ListaDupla/obj/Debug/net7.0/ListaDupla.pdb
+/home/douglas/Documentos/Projetos/Disciplinas/Analis. Alg./Atv/ListaDupla/obj/Debug/net7.0/ListaDupla.genruntimeconfig.cache
+/home/douglas/Documentos/Projetos/Disciplinas/Analis. Alg./Atv/ListaDupla/obj/Debug/net7.0/ref/ListaDupla.dll
